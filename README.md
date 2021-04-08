@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on Carbon Black
+- 🔭 I’m currently working on VMware Carbon Black
 - 🌱 I’m currently learning SvelteJS
 - 👯 I’m looking to collaborate on Folding@Home
-- 🤔 I’m looking for help with Insomnia
+- 🤔 I’m looking for help with HomeLab!
 - 💬 Ask me about Nothing
 - 📫 How to reach me: ...
 - 😄 Pronouns: He / Him / His
