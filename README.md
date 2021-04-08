@@ -5,4 +5,4 @@
 - 💬 Ask me about Nothing
 - 📫 How to reach me: ...
 - 😄 Pronouns: He / Him / His
-- ⚡ Fun fact: 🤟 Love to watch Animated Series!
+- ⚡ Fun fact: 🤟 Love to watch any Animated Series!
