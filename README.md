@@ -3,6 +3,6 @@
 - 👯 I’m looking to collaborate on Folding@Home
 - 🤔 I’m looking for help with HomeLab!
 - 💬 Ask me about Nothing
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://github.com/parvez
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: 🤟 Love to watch any Animated Series!
